@@ -1,4 +1,4 @@
-# Pre-Launch-Forecaster
+# Pre-Launch Forecaster
 Purpose - This project presents an approach to automate the pre-launch of products analysis process using the Data Science technology and Machine Learning with TensorFlow library from PythonTM language. The actual analysis process takes time, effort and money which delays the launch of the product while the automated analysis was made to reduce these issues to benefit the company’s shareholders.
 
 Design and Methodology – The project aims to develop a Machine Learning model to learn from the actual analysis processes and come up with the key factors of the product’s success in the market. The Data Science tools (Pandas, Numpy, Matplotlib) are used to get the appropriate data in which the datasets are going to be cleaned, manipulated, and visualized to determine the significance of each parameter on the target variables. Using TensorFlow and PythonTM language the model is developed, adjusted, and evaluated to enhance its accuracy of predicting the factors like demands, customer satisfaction and target market.
